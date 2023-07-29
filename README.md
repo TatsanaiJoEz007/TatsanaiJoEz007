@@ -5,7 +5,6 @@ I am a 2nd year student at university. Rajamangala Technology Srivijaya Faculty 
 
 * 🌍  I'm based in Songklha Thailand
 * ✉️  You can contact me at [tatsanai.n@rmutsvmail.com](mailto:tatsanai.n@rmutsvmail.com)
-* 🧠  I'm learning DMBS = SQL & No-SQL
 * ⚡  im like anything is physics , astronomy , nature cuz It can be proven scientifically.
 
 ### Skills
