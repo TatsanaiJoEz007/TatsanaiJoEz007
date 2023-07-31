@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tatsanai Nookate
 ========================================================================================================================================
 
-I am a 2nd year student at university. Rajamangala Technology Srivijaya Faculty of Engineering Computer Engineering
+I am  Computer Engineering Dept student at university. Rajamangala Technology Srivijaya.
 
 * 🌍  I'm based in Songklha Thailand
 * ✉️  You can contact me at [tatsanai.n@rmutsvmail.com](mailto:tatsanai.n@rmutsvmail.com)
