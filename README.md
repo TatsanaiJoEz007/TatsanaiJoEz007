@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am  Computer Engineering Dept student at university. Rajamangala Technology Srivijaya.
 
-* 🌍  I'm based in Songklha Thailand
+* 🌍  I'm live in Songklha Thailand
 * ✉️  You can contact me at [tatsanai.n@rmutsvmail.com](mailto:tatsanai.n@rmutsvmail.com)
 * ⚡  im like anything is physics , astronomy , nature cuz It can be proven scientifically.
 
